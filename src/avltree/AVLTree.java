@@ -1,5 +1,15 @@
 package avltree;
 
+/**
+ * O Projeto foi realizado pela equipe:
+ * 1 - 01515248 e Alisson Andrada Pereira Magalhães 01
+ * 2 - 01522475 e Victor Giovanni de Oliveira 02
+ * 
+ * Turma: 2NA
+ * Disciplina: Estrutura de Dados
+ * Professor: José Mário Souza
+ */
+
 public class AVLTree {
 
     private Node root;
